@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0
+    font 100
+    font family 'Courier New', Courier, monospace
+}
+#header{
+    position: fixed;
+    background-color: lightblue;
+}
+.section {
+    background-color: GREY;
+    display: black;
+    border: 10px solid black;
+}
+footer {
+    position: absolute;
+    background-color: lightblue;
+}
+#contact-info-box {
+    background-color: lightgreen;
+}
